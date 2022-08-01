@@ -1,3 +1,4 @@
+# this script is meant to navigate to a webpage and capture its source code into a time-date stamped text file
 import time
 import webbrowser
 import pynput
