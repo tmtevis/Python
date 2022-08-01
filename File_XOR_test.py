@@ -1,3 +1,4 @@
+# This script performs an XOR of two files to find what is different
 import os
 
 def file_xor():
