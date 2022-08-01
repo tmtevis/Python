@@ -1,3 +1,5 @@
+## This script contains some file IO operations to be used within a larger program. Helpful for reading/writing/parsing text files or CSVs
+
 # Function: delete_file(fName)
 # Description: input file name with relative path to delete it
 def delete_file(fName):
